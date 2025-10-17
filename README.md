@@ -1,9 +1,8 @@
-# Music College Consulting Website
+# Jin Cho Music Website
 
-This repository contains a simple, informational website for a boutique
-college consulting practice that specialises in music school admissions
-and guitar tutoring. The site was designed to be clean, modern and
-mobile‑friendly. It includes:
+This repository contains a simple, informational website for **Jin Cho Music**, a boutique
+practice that specialises in music school admissions and guitar tutoring.
+The site is clean, modern and mobile‑friendly. It includes:
 
 * **Home page (`index.html`)** – Introduces visitors to the practice with a
   striking hero image, an overview of services, reasons to choose the firm,
